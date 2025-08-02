@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\Rock Paper Scissors\\",
-  "Documents": [],
+  "WorkspaceRootPath": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADDFB75-FC87-429D-95D0-F5AD82DFDA4C}|Rock Paper Scissors.csproj|h:\\c#\\projects\\shervin\\rock paper scissors\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADDFB75-FC87-429D-95D0-F5AD82DFDA4C}|Rock Paper Scissors.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADDFB75-FC87-429D-95D0-F5AD82DFDA4C}|Rock Paper Scissors.csproj|h:\\c#\\projects\\shervin\\rock paper scissors\\resizehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADDFB75-FC87-429D-95D0-F5AD82DFDA4C}|Rock Paper Scissors.csproj|solutionrelative:resizehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResizeHelper.cs",
+              "DocumentMoniker": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\ResizeHelper.cs",
+              "RelativeDocumentMoniker": "ResizeHelper.cs",
+              "ToolTip": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\ResizeHelper.cs",
+              "RelativeToolTip": "ResizeHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:47:17.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "H:\\C#\\Projects\\Shervin\\Rock Paper Scissors\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:46:51.644Z",
+              "EditorCaption": ""
             }
           ]
         }

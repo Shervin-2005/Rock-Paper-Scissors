@@ -7,6 +7,7 @@ namespace Rock_Paper_Scissors
 {
     public partial class game2 : Form
     {
+        //adding a comment
         ResizeHelper resizeHelper=new ResizeHelper();
         ScreenFixer screenFixer = new ScreenFixer();
         int player1Choice;
