@@ -23,6 +23,7 @@ namespace Rock_Paper_Scissors
         }
         private void comparison(int player1Choice, int player2Choice)
         {
+            //adding a comment for github
             //this method is similar to method of Game
             if (player1Choice - player2Choice == 1 || player1Choice - player2Choice == -2)
             {
